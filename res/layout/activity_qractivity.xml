@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".QRActivity">
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/scan_this_qr_code_at_parking"
+      android:gravity="center"
+      android:textSize="20sp"
+      android:textStyle="bold|italic"/>
+
+  <ImageView
+      android:id="@+id/qrCode"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:contentDescription="@string/qr_code"
+      android:layout_marginBottom="50dp" />
+
+  <TextView
+      android:id="@+id/carNumberToQR"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textSize="18sp"
+      android:textStyle="bold"
+      android:gravity="center"
+      android:layout_marginBottom="15dp"/>
+
+  <TextView
+      android:id="@+id/paymentStatus"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textSize="18sp"
+      android:textStyle="italic"
+      android:gravity="center"
+      android:layout_marginBottom="40dp"/>
+
+
+<!--  <TextView-->
+<!--      android:id="@+id/regenerateQR"-->
+<!--      android:textColor="#636363"-->
+<!--      android:layout_width="wrap_content"-->
+<!--      android:layout_height="wrap_content"-->
+<!--      android:layout_gravity="end"-->
+<!--      android:textSize="15sp"-->
+<!--      android:text="@string/regenerate_qr"-->
+<!--      android:textStyle="bold"/>-->
+
+  <TextView
+      android:id="@+id/openGoogleMaps"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textColor="#958C8C"
+      android:textSize="15sp"
+      android:textStyle="bold"
+      android:layout_gravity="end"
+      android:layout_marginTop="50dp"
+      android:text="@string/open_in_google_maps"/>
+
+
+</LinearLayout>

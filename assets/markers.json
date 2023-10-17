@@ -1,0 +1,122 @@
+[
+  {
+    "lat": 28.4595,
+    "lng": 77.0266,
+    "title": "Parking Lot 1",
+    "price": 30,
+    "parkingSlots": 11,
+    "timings": "24x7"
+  },
+  {
+    "lat": 28.4339,
+    "lng": 77.4324,
+    "title": "Parking Lot 2",
+    "price": 45,
+    "parkingSlots": 13,
+    "timings": "24x7"
+  },
+  {
+    "lat": 38.4436,
+    "lng": 78.5324,
+    "title": "Parking Lot 3",
+    "price": 25,
+    "parkingSlots": 6,
+    "timings": "24x7"
+  },
+  {
+    "lat": 28.6304,
+    "lng": 77.2177,
+    "title": "Parking Lot 4",
+    "price": 60,
+    "parkingSlots": 8,
+    "timings": "24x7"
+  },
+  {
+    "lat": 28.7041,
+    "lng": 77.1025,
+    "title": "Parking Lot 5",
+    "price": 50,
+    "parkingSlots": 14,
+    "timings": "24x7"
+  },
+  {
+    "lat": 24.7085,
+    "lng": 79.1025,
+    "title": "Parking Lot 6",
+    "price": 40,
+    "parkingSlots": 10,
+    "timings": "24x7"
+  },
+  {
+    "lat": 32.4966,
+    "lng": 67.0859,
+    "title": "Parking Lot 7",
+    "price": 50,
+    "parkingSlots": 5,
+    "timings": "24x7"
+  },
+  {
+    "lat": 23.6334,
+    "lng": 77.2897,
+    "title": "Parking Lot 8",
+    "price": 70,
+    "parkingSlots": 17,
+    "timings": "24x7"
+  },
+  {
+    "lat": 28.7041,
+    "lng": 77.1725,
+    "title": "Parking Lot 9",
+    "price": 35,
+    "parkingSlots": 9,
+    "timings": "24x7"
+  },
+  {
+    "lat": 27.7041,
+    "lng": 79.1031,
+    "title": "Parking Lot 10",
+    "price": 25,
+    "parkingSlots": 12,
+    "timings": "24x7"
+  },
+  {
+    "lat": 28.4322,
+    "lng": 74.0266,
+    "title": "Parking Lot 11",
+    "price": 50,
+    "parkingSlots": 19,
+    "timings": "24x7"
+  },
+  {
+    "lat": 28.1239,
+    "lng": 77.0392,
+    "title": "Parking Lot 12",
+    "price": 65,
+    "parkingSlots": 14,
+    "timings": "24x7"
+  },
+  {
+    "lat": 28.4966,
+    "lng": 77.0859,
+    "title": "Parking Lot 13",
+    "price": 40,
+    "parkingSlots": 5,
+    "timings": "24x7"
+  },
+  {
+    "lat": 26.8304,
+    "lng": 77.2177,
+    "title": "Parking Lot 14",
+    "price": 30,
+    "parkingSlots": 8,
+    "timings": "24x7"
+  },
+  {
+    "lat": 24.8304,
+    "lng": 76.2177,
+    "title": "Parking Lot 15",
+    "price": 30,
+    "parkingSlots": 10,
+    "timings": "24x7"
+  }
+]

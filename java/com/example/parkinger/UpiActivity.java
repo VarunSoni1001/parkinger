@@ -66,7 +66,7 @@ public class UpiActivity extends AppCompatActivity implements PaymentResultListe
         // Initialize Razorpay checkout
 
 
-//      RAZOR_PAY_API = rzp_test_f2oA38lSbiSx9p
+//      RAZOR_PAY_API = 
 
         mAuth = FirebaseAuth.getInstance();
         userEmail = Objects.requireNonNull(mAuth.getCurrentUser()).getEmail();
